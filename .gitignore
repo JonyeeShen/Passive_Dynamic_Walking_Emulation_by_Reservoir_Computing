@@ -60,3 +60,5 @@ venv/
 
 # OS / others
 Thumbs.db
+real_data.tar.gz
+.DS_Store
