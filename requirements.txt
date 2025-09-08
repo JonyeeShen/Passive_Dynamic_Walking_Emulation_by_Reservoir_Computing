@@ -1,0 +1,15 @@
+# Core numerical / scientific computing
+numpy
+scipy
+pandas
+
+# Machine learning
+scikit-learn
+
+# Plotting / visualization
+matplotlib
+tqdm
+
+# Jupyter support (for .ipynb notebooks)
+jupyter
+notebook
