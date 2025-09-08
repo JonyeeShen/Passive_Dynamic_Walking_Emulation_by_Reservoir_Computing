@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / editors
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Logs and results
+logs/
+results/
+*.log
+
+# Large data (real data handled via Releases instead of git)
+real_data/
+*.csv
+*.txt# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter / VSCode / JetBrains
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Data (如果要忽略原始/中间数据，取消注释下一行或定向忽略某些目录)
+# real_data/
+# results/
+# logs/
+# *.csv
+# *.txt
+
+# OS / others
+Thumbs.db
